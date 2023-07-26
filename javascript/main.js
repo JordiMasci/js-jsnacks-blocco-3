@@ -37,7 +37,7 @@
 //   alert(firstWord + " " + secondWord);
 // }
 
-// TERZO ESERCIZIO
+// TERZO/QUARTO ESERCIZIO
 
 // crea array vuoto
 const numbers = [];
