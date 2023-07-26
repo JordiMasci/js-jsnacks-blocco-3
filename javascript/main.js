@@ -37,22 +37,25 @@
 //   alert(firstWord + " " + secondWord);
 // }
 
+
+
+
 // TERZO/QUARTO ESERCIZIO
 
 // crea array vuoto
-const numbers = [];
+// const numbers = [];
 
-// chiedi all'utente un numero
-let number = 0;
+// // chiedi all'utente un numero
+// let number = 0;
 
-// inserire un numero nell'array
-while (number < 50) {
-  // chiedere fino a quando non è minore di 50
-  let userNumber = parseInt(prompt("Inserisci un numero"));
-  number += userNumber;
-  numbers.push(userNumber);
-}
-console.log(numbers);
+// // inserire un numero nell'array
+// while (number < 50) {
+//   // chiedere fino a quando non è minore di 50
+//   let userNumber = parseInt(prompt("Inserisci un numero"));
+//   number += userNumber;
+//   numbers.push(number);
+// }
+// console.log(numbers);
 
-userNumberMedia = (numbers / numbers.length);
-console.log(userNumberMedia);
+// userNumberMedia = (number / numbers.length);
+// console.log(userNumberMedia);
